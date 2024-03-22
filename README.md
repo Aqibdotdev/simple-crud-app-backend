@@ -1,2 +1,2 @@
-#Simple CRUD App Files
-Contain al the files of a simple CRUD App tutorial.
+# Simple CRUD App Files
+Contains all the files of a simple CRUD App tutorial.
