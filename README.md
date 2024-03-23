@@ -1,6 +1,6 @@
 # Simple CRUD App Files
 Contains all the files of a simple CRUD App tutorial.
-## Fretures Used used:\
+## Features Used:
 1-`.get()` is used to read data\
 2-`.put()` to update data\
 3-`.post()` to create data\
